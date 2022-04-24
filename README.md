@@ -1,3 +1,5 @@
+#json server is deployed at 8080 port
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
